@@ -49,5 +49,6 @@ input{
     transition: 500ms ease all;
 }
 
-
-
+input:focus{
+    outline: none;
+}
