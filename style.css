@@ -15,7 +15,7 @@ body{
 }
 
 .sign-in-wrap{
-    width: 500px;
+    width: 400px;
     border-radius: 25px;
     box-shadow: 5px 5px 12px 5px rgba(0,0,0,0.4);
     background-color: white;
@@ -51,4 +51,16 @@ input{
 
 input:focus{
     outline: none;
+}
+
+button{
+    cursor: pointer;
+    padding: 15px 60px;
+    border-radius: 30px;
+    font-weight: 600;
+    color: white;
+    border: none;
+    background-color: rgb(39, 180, 236);
+    transition: 500ms ease all;
+
 }
