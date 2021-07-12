@@ -29,8 +29,7 @@ flex-direction: column;
 }
 
 h2{
-    /* optional text design */
-    /* text-transform: uppercase; */
+    
     font-weight: 600;
     text-align: center;
     margin-bottom: 32px;
@@ -60,7 +59,7 @@ button{
     font-weight: 600;
     color: white;
     border: none;
-    background-color: rgb(39, 180, 236);
+    background-color: rgb(8, 140, 228);
     transition: 500ms ease all;
 }
 
